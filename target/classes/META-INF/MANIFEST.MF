@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringbootConcepts
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rohit
+Implementation-Vendor-Id: org.lakshay.springboot
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringbootConcepts
+Created-By: Maven Integration for Eclipse
+
